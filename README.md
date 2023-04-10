@@ -2,6 +2,6 @@
 ## Introduce 
 
 < Gradient descent >
-> Backpropagation
-> CNN
-> Compare Pytorch and Tensorflow
+< Backpropagation >
+< CNN >
+< Compare Pytorch and Tensorflow >
